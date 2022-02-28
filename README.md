@@ -41,29 +41,27 @@ $ npm start
 # Required Dependencies
 
 # Expo app 
-  "@react-navigation/native": "^6.0.8",
-    "@react-navigation/stack": "^6.1.1",
-    "axios": "^0.26.0",
-    "expo": "~44.0.0",
-    "expo-auth-session": "^3.5.0",
-    "expo-random": "^12.1.2",
-    "expo-status-bar": "~1.2.0",
-    "expo-web-browser": "^10.1.1",
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
-    "react-native": "0.64.3",
-    "react-native-gesture-handler": "^2.2.0",
-    "react-native-reanimated": "^2.4.1",
-    "react-native-safe-area-context": "^4.0.1",
-    "react-native-web": "0.17.1"
+  * "@react-navigation/native": "^6.0.8",
+  * "@react-navigation/stack": "^6.1.1",
+  * "axios": "^0.26.0",
+  * "expo": "~44.0.0",
+  * "expo-auth-session": "^3.5.0",
+  * "expo-random": "^12.1.2",
+  * "expo-status-bar": "~1.2.0",
+  * "expo-web-browser": "^10.1.1",
+  * "react": "17.0.1",
+  * "react-dom": "17.0.1",
+  * "react-native": "0.64.3",
+  * "react-native-gesture-handler": "^2.2.0",
+  * "react-native-reanimated": "^2.4.1",
+  * "react-native-safe-area-context": "^4.0.1",
+  * "react-native-web": "0.17.1"
 
 # Server
 * [Axios](https://axios-http.com/docs/intro)
 * [Cookie parser](https://github.com/expressjs/cookie-parser)
 * [CORS](https://www.npmjs.com/package/cors)
 * [Express](https://expressjs.com/)
-
-
 
 # License
 
